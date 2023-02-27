@@ -9,6 +9,7 @@ public class Jian {
         System.out.println("hello hot-fix");
         System.out.println("hello hot-fix2");
         System.out.println("push test");
+        System.out.println("远程库提交");
 
 
     }
